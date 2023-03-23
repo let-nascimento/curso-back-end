@@ -1,0 +1,14 @@
+body{
+    background-color:#6a947b ;
+    color: white;
+}
+.flexcontainer{
+    display: flex;
+}
+img{
+    width: 320px;
+    height: 430px;
+    margin-left: 100%;
+    margin-top: 50px;
+}
+
