@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    padding: 5px;
+    background-color: rgb(182, 181, 181);
+    box-shadow:  5px 5px rgb(75, 74, 74);
+}
+
+input{
+    border-radius: 10px;
+
+}
+
+button{
+    border-radius: 10px;
+    color: white;
+    background-color: gray;
+    margin: 2px;
+    
+}
+
+.botao:hover{
+    background-color: rgb(99, 97, 97);
+}
